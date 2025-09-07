@@ -1,9 +1,14 @@
 ### PyTorch Implementation of U-Net, R2U-Net
+
+I've worked on this project as some sort of practice to familiarize myself with various neural networks architectures, particularly U-Net and R2U-Net, and to gain hands-on experience in the vast field of Computer Vision. Also, this was my final project for the Foundations of Computer Vision course at BNUT. You can find the corresponding papers in the links below:
+
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
 https://arxiv.org/abs/1505.04597
 
 **Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation**
 https://arxiv.org/abs/1802.06955
+
+
 
 # Results
 You can see the stable version and final results in Google Colab:
